@@ -1,0 +1,33 @@
+/**
+ * 
+ */
+package shoppingCart;
+
+import java.util.List;
+import java.util.Map;
+
+/**
+ * @author vasanth
+ *
+ */
+public class ShoppingCartImpl implements ShoppingCart {
+
+	/* (non-Javadoc)
+	 * @see shoppingCart.ShoppingCart#addProducts(java.util.List)
+	 */
+	@Override
+	public Map<String, Long> addProducts(List<String> prodcutList) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	/* (non-Javadoc)
+	 * @see shoppingCart.ShoppingCart#calcuateTotalPrice(java.util.Map)
+	 */
+	@Override
+	public Double calcuateTotalPrice(Map<String, Long> productMap) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

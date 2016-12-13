@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package inventory;
+
+/**
+ * @author vasanth
+ *
+ */
+public interface Inventory {
+
+}
